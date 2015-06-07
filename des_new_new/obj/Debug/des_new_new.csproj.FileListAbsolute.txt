@@ -1,0 +1,6 @@
+c:\users\алексей\documents\visual studio 2012\Projects\des_new_new\des_new_new\bin\Debug\des_new_new.exe.config
+c:\users\алексей\documents\visual studio 2012\Projects\des_new_new\des_new_new\bin\Debug\des_new_new.exe
+c:\users\алексей\documents\visual studio 2012\Projects\des_new_new\des_new_new\bin\Debug\des_new_new.pdb
+c:\users\алексей\documents\visual studio 2012\Projects\des_new_new\des_new_new\obj\Debug\des_new_new.csprojResolveAssemblyReference.cache
+c:\users\алексей\documents\visual studio 2012\Projects\des_new_new\des_new_new\obj\Debug\des_new_new.exe
+c:\users\алексей\documents\visual studio 2012\Projects\des_new_new\des_new_new\obj\Debug\des_new_new.pdb
